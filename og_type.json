@@ -1,0 +1,682 @@
+{
+  "meta": {
+    "description": "Structured collection of Open Graph types categorized.",
+    "source": "og_type.txt"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Generales (Core y Comunes)",
+      "icon": "🌐",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "website",
+            "article",
+            "blog",
+            "profile",
+            "object",
+            "site"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Artículos y Contenido Editorial",
+      "icon": "📰",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "article",
+            "news.article",
+            "blog.post",
+            "report",
+            "column",
+            "editorial",
+            "review",
+            "opinion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Entretenimiento y Medios",
+      "icon": "🎬",
+      "subgroups": [
+        {
+          "name": "Video y Cine",
+          "types": [
+            "video.movie",
+            "video.episode",
+            "video.tv_show",
+            "video.other",
+            "video.series",
+            "video.season",
+            "video.short",
+            "video.documentary",
+            "video.film",
+            "video.trailer",
+            "video.clip"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Música y Audio",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "music.song",
+            "music.album",
+            "music.playlist",
+            "music.radio_station",
+            "music.dj",
+            "music.musician",
+            "music.composer",
+            "music.concert",
+            "music.release",
+            "audio.book",
+            "audio.podcast",
+            "audio.episode"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Libros y Literatura",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "book",
+            "book.author",
+            "book.genre",
+            "book.publisher",
+            "book.edition",
+            "book.series",
+            "book.review",
+            "magazine",
+            "magazine.article",
+            "comic",
+            "comic.strip",
+            "comic.series"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Juegos y Juguetes",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "game",
+            "game.achievement",
+            "game.character",
+            "game.developer",
+            "game.level",
+            "game.trailer",
+            "toy",
+            "game.dlc",
+            "game.expansion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Deportes",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "sports.team",
+            "sports.league",
+            "sports.event",
+            "sports.match",
+            "sports.player",
+            "sports.stadium",
+            "sports.championship",
+            "sports.tournament"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "️ Comercio y Productos",
+      "icon": "🛍",
+      "subgroups": [
+        {
+          "name": "Productos y Comercio",
+          "types": [
+            "product",
+            "product.group",
+            "product.item",
+            "product.variant",
+            "product.category",
+            "product.brand",
+            "product.model",
+            "product.line",
+            "product.offer",
+            "product.discount",
+            "product.review",
+            "product.rating"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Automóviles y Vehículos",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "vehicle.car",
+            "vehicle.motorcycle",
+            "vehicle.truck",
+            "vehicle.boat",
+            "vehicle.aircraft",
+            "vehicle.bicycle",
+            "vehicle.part",
+            "vehicle.dealer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Moda y Belleza",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "fashion.clothing",
+            "fashion.accessory",
+            "fashion.shoes",
+            "fashion.jewelry",
+            "fashion.bag",
+            "beauty.cosmetic",
+            "beauty.skincare",
+            "beauty.perfume",
+            "beauty.makeup"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Alimentos y Bebidas",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "food.recipe",
+            "food.restaurant",
+            "food.dish",
+            "food.ingredient",
+            "food.beverage",
+            "food.wine",
+            "food.beer",
+            "food.coffee",
+            "food.dessert"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Eventos y Actividades",
+      "icon": "📅",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "event",
+            "event.conference",
+            "event.seminar",
+            "event.workshop",
+            "event.meetup",
+            "event.networking",
+            "event.sports",
+            "event.concert",
+            "event.festival",
+            "event.webinar",
+            "event.lecture",
+            "event.exhibition",
+            "event.trade_show",
+            "event.competition",
+            "event.carnival",
+            "event.parade",
+            "event.gala",
+            "event.wedding",
+            "event.birthday",
+            "event.funeral"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Negocios y Lugares",
+      "icon": "🏢",
+      "subgroups": [
+        {
+          "name": "Negocios y Servicios",
+          "types": [
+            "business.business",
+            "business.restaurant",
+            "business.cafe",
+            "business.bar",
+            "business.hotel",
+            "business.motel",
+            "business.store",
+            "business.shop",
+            "business.supermarket",
+            "business.mall",
+            "business.bank",
+            "business.hospital",
+            "business.clinic",
+            "business.pharmacy",
+            "business.school",
+            "business.university",
+            "business.gym",
+            "business.salon",
+            "business.law_firm",
+            "business.agency",
+            "business.consultancy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Lugares y Geografía",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "place",
+            "place.city",
+            "place.country",
+            "place.state",
+            "place.province",
+            "place.region",
+            "place.locality",
+            "place.neighborhood",
+            "place.street",
+            "place.address",
+            "place.landmark",
+            "place.monument",
+            "place.building",
+            "place.house",
+            "place.apartment",
+            "place.park",
+            "place.garden",
+            "place.beach",
+            "place.mountain",
+            "place.river",
+            "place.lake",
+            "place.island",
+            "place.continent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Turismo y Viajes",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "tourist.destination",
+            "tourist.attraction",
+            "tourist.hotel",
+            "tourist.resort",
+            "tourist.cruise",
+            "tourist.tour",
+            "tourist.guide",
+            "tourist.activity"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Personas y Organizaciones",
+      "icon": "👥",
+      "subgroups": [
+        {
+          "name": "Personas",
+          "types": [
+            "person",
+            "profile",
+            "actor",
+            "artist",
+            "author",
+            "musician",
+            "athlete",
+            "coach",
+            "doctor",
+            "engineer",
+            "politician",
+            "scientist",
+            "teacher",
+            "student",
+            "influencer",
+            "celebrity",
+            "expert"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Organizaciones",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "organization",
+            "company",
+            "corporation",
+            "brand",
+            "nonprofit",
+            "ngo",
+            "foundation",
+            "charity",
+            "government",
+            "political_party",
+            "school",
+            "university",
+            "college",
+            "hospital",
+            "museum",
+            "library",
+            "gallery",
+            "team",
+            "club",
+            "association",
+            "union",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Educación y Conocimiento",
+      "icon": "📚",
+      "subgroups": [
+        {
+          "name": "Educación Formal",
+          "types": [
+            "course",
+            "lesson",
+            "lecture",
+            "class",
+            "workshop",
+            "seminar",
+            "training",
+            "tutorial",
+            "guide",
+            "manual",
+            "textbook",
+            "curriculum",
+            "syllabus",
+            "exam",
+            "quiz",
+            "assignment",
+            "homework"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Investigación y Ciencia",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "research.paper",
+            "research.article",
+            "research.study",
+            "thesis",
+            "dissertation",
+            "patent",
+            "scientific.discovery",
+            "experiment",
+            "dataset",
+            "statistical.data",
+            "white.paper",
+            "technical.report"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Conocimiento y Referencia",
+      "icon": "",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "knowledge.base",
+            "encyclopedia",
+            "dictionary",
+            "glossary",
+            "thesaurus",
+            "almanac",
+            "atlas",
+            "directory",
+            "catalog",
+            "bibliography",
+            "index",
+            "faq",
+            "howto",
+            "tip",
+            "advice",
+            "recommendation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Tecnología y Software",
+      "icon": "💻",
+      "subgroups": [
+        {
+          "name": "Software y Apps",
+          "types": [
+            "software.application",
+            "software.game",
+            "software.web_app",
+            "software.mobile_app",
+            "software.desktop_app",
+            "software.plugin",
+            "software.extension",
+            "software.library",
+            "software.framework",
+            "software.version",
+            "software.update",
+            "software.patch"
+          ]
+        },
+        {
+          "name": "Sitios Web y Plataformas",
+          "types": [
+            "website",
+            "webpage",
+            "homepage",
+            "landing.page",
+            "blog",
+            "forum",
+            "wiki",
+            "social.network",
+            "ecommerce.site",
+            "portfolio.site",
+            "personal.site",
+            "corporate.site"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Salud y Bienestar",
+      "icon": "🏥",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "health.condition",
+            "health.treatment",
+            "health.medicine",
+            "health.procedure",
+            "health.hospital",
+            "health.clinic",
+            "health.doctor",
+            "health.therapist",
+            "health.diet",
+            "health.exercise",
+            "health.meditation",
+            "health.yoga",
+            "health.mental_health",
+            "health.wellness"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Bienes Raíces",
+      "icon": "🏠",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "real_estate.property",
+            "real_estate.house",
+            "real_estate.apartment",
+            "real_estate.condo",
+            "real_estate.commercial",
+            "real_estate.land",
+            "real_estate.rental",
+            "real_estate.development",
+            "real_estate.agent",
+            "real_estate.agency"
+          ]
+        },
+        {
+          "name": "⚖️ Legal y Gobierno",
+          "types": [
+            "law.case",
+            "law.statute",
+            "law.regulation",
+            "law.contract",
+            "government.document",
+            "government.form",
+            "government.service",
+            "political.campaign",
+            "voting.ballot",
+            "public.notice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Medio Ambiente y Naturaleza",
+      "icon": "🌿",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "environment.park",
+            "environment.reserve",
+            "environment.species",
+            "environment.plant",
+            "environment.animal",
+            "environment.ecosystem",
+            "environment.conservation",
+            "environment.climate",
+            "environment.disaster"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Arte y Cultura",
+      "icon": "🎨",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "art.painting",
+            "art.sculpture",
+            "art.photograph",
+            "art.drawing",
+            "art.installation",
+            "art.exhibition",
+            "art.gallery",
+            "art.museum",
+            "art.movement",
+            "art.period",
+            "culture.tradition",
+            "culture.festival",
+            "culture.custom",
+            "culture.language",
+            "culture.religion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Datos y Finanzas",
+      "icon": "📊",
+      "subgroups": [
+        {
+          "name": "General",
+          "types": [
+            "financial.report",
+            "financial.statement",
+            "stock.quote",
+            "currency.exchange",
+            "market.data",
+            "economic.indicator",
+            "budget",
+            "invoice",
+            "receipt",
+            "tax.form"
+          ]
+        }
+      ]
+    }
+  ]
+}
