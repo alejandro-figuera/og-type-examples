@@ -1,0 +1,19 @@
+Example for event.birthday
+
+<!-- Open Graph example for type: event.birthday -->
+<!-- Ejemplo Open Graph para el tipo: event.birthday -->
+<meta property="og:type" content="event.birthday">
+<meta property="og:title" content="Example Title">
+<meta property="og:description" content="This is a description of the content.">
+<meta property="og:url" content="https://example.com/page">
+<meta property="og:image" content="https://example.com/image.jpg">
+
+
+<!-- Specific Metadata -->
+<!-- Metadata Específica -->
+
+
+<!-- Platform Specific -->
+<!-- Para Plataformas Específicas -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@site_account">

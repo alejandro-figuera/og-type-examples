@@ -1,0 +1,22 @@
+Example for book.author
+
+<!-- Open Graph example for type: book.author -->
+<!-- Ejemplo Open Graph para el tipo: book.author -->
+<meta property="og:type" content="book.author">
+<meta property="og:title" content="The Great Gatsby">
+<meta property="og:description" content="A novel by F. Scott Fitzgerald.">
+<meta property="og:url" content="https://example.com/page">
+<meta property="og:image" content="https://example.com/image.jpg">
+
+
+<!-- Specific Metadata -->
+<!-- Metadata Específica -->
+<meta property="book:author" content="F. Scott Fitzgerald">
+<meta property="book:isbn" content="978-0743273565">
+<meta property="book:release_date" content="1925-04-10">
+<meta property="book:tag" content="Classic">
+
+<!-- Platform Specific -->
+<!-- Para Plataformas Específicas -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@site_account">

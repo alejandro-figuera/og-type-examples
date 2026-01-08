@@ -1,0 +1,19 @@
+Example for website
+
+<!-- Open Graph example for type: website -->
+<!-- Ejemplo Open Graph para el tipo: website -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="My Awesome Website">
+<meta property="og:description" content="The best place to find cool things.">
+<meta property="og:url" content="https://example.com/page">
+<meta property="og:image" content="https://example.com/image.jpg">
+
+
+<!-- Specific Metadata -->
+<!-- Metadata Específica -->
+
+
+<!-- Platform Specific -->
+<!-- Para Plataformas Específicas -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@site_account">

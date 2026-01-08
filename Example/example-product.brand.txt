@@ -1,0 +1,22 @@
+Example for product.brand
+
+<!-- Open Graph example for type: product.brand -->
+<!-- Ejemplo Open Graph para el tipo: product.brand -->
+<meta property="og:type" content="product.brand">
+<meta property="og:title" content="Super Widget 3000">
+<meta property="og:description" content="The latest in widget technology.">
+<meta property="og:url" content="https://example.com/page">
+<meta property="og:image" content="https://example.com/image.jpg">
+
+
+<!-- Specific Metadata -->
+<!-- Metadata Específica -->
+<meta property="product:price:amount" content="29.99">
+<meta property="product:price:currency" content="USD">
+<meta property="product:availability" content="instock">
+<meta property="product:brand" content="WidgetCorp">
+
+<!-- Platform Specific -->
+<!-- Para Plataformas Específicas -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@site_account">

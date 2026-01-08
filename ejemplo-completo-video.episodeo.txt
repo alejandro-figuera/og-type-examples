@@ -1,0 +1,30 @@
+<!-- Tipo y propiedades básicas -->
+<meta property="og:type" content="video.episode">
+<meta property="og:title" content="El Inicio - Episodio 1">
+<meta property="og:description" content="En el primer episodio, los personajes se conocen y comienza la aventura...">
+<meta property="og:url" content="https://tusitio.com/serie/el-protagonista/season-1/episode-1">
+<meta property="og:image" content="https://tusitio.com/images/episode-1-thumbnail.jpg">
+
+<!-- Propiedades específicas de video -->
+<meta property="og:video" content="https://tusitio.com/videos/episode-1.mp4">
+<meta property="og:video:secure_url" content="https://tusitio.com/videos/episode-1.mp4">
+<meta property="og:video:type" content="video/mp4">
+<meta property="og:video:width" content="1920">
+<meta property="og:video:height" content="1080">
+<meta property="og:video:duration" content="2580"> <!-- en segundos -->
+
+<!-- Propiedades específicas del episodio -->
+<meta property="video:series" content="https://tusitio.com/serie/el-protagonista">
+<meta property="video:episode" content="1">
+<meta property="video:season" content="1">
+<meta property="video:release_date" content="2024-03-15T20:00:00Z">
+
+<!-- Actor/director opcional -->
+<meta property="video:actor" content="Nombre del Actor 1">
+<meta property="video:actor" content="Nombre del Actor 2">
+<meta property="video:director" content="Nombre del Director">
+
+<!-- Opcional: metadatos adicionales recomendados -->
+<meta property="og:site_name" content="Nombre de tu Plataforma">
+<meta property="og:locale" content="es_ES">
+<meta property="fb:app_id" content="tu_app_id"> <!-- Si usas Facebook -->

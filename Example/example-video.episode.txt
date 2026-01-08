@@ -1,0 +1,28 @@
+Example for video.episode
+
+<!-- Open Graph example for type: video.episode -->
+<!-- Ejemplo Open Graph para el tipo: video.episode -->
+<meta property="og:type" content="video.episode">
+<meta property="og:title" content="Big Buck Bunny">
+<meta property="og:description" content="A large and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness.">
+<meta property="og:url" content="https://example.com/video/bbb">
+<meta property="og:image" content="https://example.com/images/bbb.jpg">
+<meta property="og:video" content="https://example.com/video/bbb.mp4">
+<meta property="og:video:type" content="video/mp4">
+<meta property="og:video:width" content="1280">
+<meta property="og:video:height" content="720">
+
+<!-- Specific Metadata -->
+<!-- Metadata Específica -->
+<meta property="video:director" content="Director Name">
+<meta property="video:actor" content="Actor Name">
+<meta property="video:duration" content="600">
+<meta property="video:release_date" content="2023-01-01">
+<meta property="video:series" content="Series Name">
+<meta property="video:season" content="1">
+<meta property="video:episode" content="3">
+
+<!-- Platform Specific -->
+<!-- Para Plataformas Específicas -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@site_account">

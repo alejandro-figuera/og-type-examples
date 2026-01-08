@@ -1,0 +1,29 @@
+Ejemplo real para un episodio de serie
+
+<!-- Episodio de una serie de streaming -->
+<meta property="og:type" content="video.episode">
+<meta property="og:title" content="La Conexión - Stranger Things Temporada 4 Episodio 3">
+<meta property="og:description" content="Eleven intenta recuperar sus poderes mientras el grupo descubre una nueva conexión con el Mundo del Revés.">
+<meta property="og:url" content="https://netflix.com/stranger-things/s4/e3">
+<meta property="og:image" content="https://cdn.netflix.com/s4e3-thumb.jpg">
+<meta property="og:video" content="https://stream.netflix.com/stranger-things/s4/e3/master.m3u8">
+<meta property="og:video:type" content="application/x-mpegURL">
+<meta property="og:video:width" content="3840">
+<meta property="og:video:height" content="2160">
+<meta property="og:video:duration" content="2870">
+
+<!-- Metadata específica -->
+<meta property="video:series" content="https://netflix.com/stranger-things">
+<meta property="video:episode" content="3">
+<meta property="video:season" content="4">
+<meta property="video:release_date" content="2022-05-27T00:00:00Z">
+<meta property="video:actor" content="Millie Bobby Brown">
+<meta property="video:actor" content="Finn Wolfhard">
+<meta property="video:director" content="Matt Duffer">
+<meta property="video:writer" content="Ross Duffer">
+
+<!-- Para plataformas específicas -->
+<meta property="twitter:card" content="player">
+<meta property="twitter:player" content="https://netflix.com/embed/stranger-things/s4/e3">
+<meta property="twitter:player:width" content="1280">
+<meta property="twitter:player:height" content="720">

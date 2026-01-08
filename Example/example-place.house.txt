@@ -1,0 +1,25 @@
+Example for place.house
+
+<!-- Open Graph example for type: place.house -->
+<!-- Ejemplo Open Graph para el tipo: place.house -->
+<meta property="og:type" content="place.house">
+<meta property="og:title" content="Central Park">
+<meta property="og:description" content="A beautiful park in NY.">
+<meta property="og:url" content="https://example.com/page">
+<meta property="og:image" content="https://example.com/image.jpg">
+
+
+<!-- Specific Metadata -->
+<!-- Metadata Específica -->
+<meta property="place:location:latitude" content="40.785091">
+<meta property="place:location:longitude" content="-73.968285">
+<meta property="business:contact_data:street_address" content="59th St to 110th St">
+<meta property="business:contact_data:locality" content="New York">
+<meta property="business:contact_data:region" content="NY">
+<meta property="business:contact_data:postal_code" content="10022">
+<meta property="business:contact_data:country_name" content="USA">
+
+<!-- Platform Specific -->
+<!-- Para Plataformas Específicas -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@site_account">

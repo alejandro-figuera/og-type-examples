@@ -1,0 +1,22 @@
+Example for profile
+
+<!-- Open Graph example for type: profile -->
+<!-- Ejemplo Open Graph para el tipo: profile -->
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Jane Doe">
+<meta property="og:description" content="Software Engineer and Open Source Contributor.">
+<meta property="og:url" content="https://example.com/page">
+<meta property="og:image" content="https://example.com/image.jpg">
+
+
+<!-- Specific Metadata -->
+<!-- Metadata Específica -->
+<meta property="profile:first_name" content="Jane">
+<meta property="profile:last_name" content="Doe">
+<meta property="profile:username" content="janedoe">
+<meta property="profile:gender" content="female">
+
+<!-- Platform Specific -->
+<!-- Para Plataformas Específicas -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@site_account">
